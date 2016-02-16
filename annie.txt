@@ -1,3 +1,13 @@
 hello everybody!!
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+Hello to you too.
+yo
+>>>>>>> a8778df26fcd89f419b9da088d4aeb37d84712d8
+=======
+yo
+>>>>>>> abd8db7cb8848f1b83166d2dfa39c1823570cdd9
 Hi Annie
 Have a great day!
