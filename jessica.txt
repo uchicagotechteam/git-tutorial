@@ -1,3 +1,7 @@
 Hi Chris
 
+<<<<<<< HEAD
 yo
+=======
+wdup
+>>>>>>> 44ef0ad32999f2182ee6834fe72d65731250de12
